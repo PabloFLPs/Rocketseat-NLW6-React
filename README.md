@@ -1,5 +1,7 @@
-# LetMeAsk - Application
+# LetMeAsk Application
 ## A Simple Q&A Rooms Platform
+
+The original project repository is: https://github.com/rocketseat-education/nlw-06-reactjs
 
 This is a simples Q&A (questions and answers) application, developed in the 6th edition of the Next Level Week by Rocketseat (2021).
 
